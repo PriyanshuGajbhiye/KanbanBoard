@@ -84,6 +84,7 @@ function KanbanBoard() {
           users={users}
         />
       </div>
+      <h1>Kanban Board</h1>
       <div className="line"></div>
       <div className="column" style={{ display: "flex" }}>
         {Object.keys(groupedTickets).map((value) => (
