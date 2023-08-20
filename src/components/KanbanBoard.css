@@ -1,0 +1,21 @@
+.column{
+  flex: 1;
+  padding: 10px;
+  margin: 10px;
+}
+
+.list {
+  padding: 0;
+  list-style: none;
+}
+
+.ticket{
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px 0;  
+}
+
+.line {
+  border-top: 1px solid #ccc;
+  margin: 20px 0;
+}
